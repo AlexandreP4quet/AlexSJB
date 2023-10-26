@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AlexSJB<br>🧾 FULLSTACK DEVELOPPER <br>🌱 I’m currently learning Laravel<br>📫 Discord : Alegooo.exe
+👋 Hi, I’m @AlexSJB<br>🧾 Fullstack Developper <br>🌱 I’m currently learning Laravel<br>📫 Discord : Alegooo.exe
 
 
 # 💻 Tech Stack:
